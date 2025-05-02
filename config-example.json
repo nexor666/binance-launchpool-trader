@@ -1,0 +1,12 @@
+{
+  "api_key": "KEY",
+  "api_secret": "SECRET",
+  "testnet_api_key": "KEY",
+  "testnet_api_secret": "SECRET",
+  "symbol": "BTCUSDC",
+  "price_rise_threshold_seconds": 2,
+  "trailing_auto_cancel_seconds": 30,
+  "testnet": false,
+  "discord_webhook": "https://discord.com/api/webhooks/******************",
+  "debug_ws_logging": true
+}

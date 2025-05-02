@@ -1,0 +1,12 @@
+# Sensitive config
+config.json
+
+# Logs
+*.log
+
+# Python cache
+__pycache__/
+
+# Virtual environment
+binance-env/
+venv/
