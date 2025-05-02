@@ -13,7 +13,7 @@ This guide walks you through setting up the environment to run the trade bot on 
 
 ## 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/binance-launchpool-trader.git
+git clone https://github.com/nexor666/binance-launchpool-trader.git
 cd binance-launchpool-trader
 ```
 
